@@ -1,0 +1,21 @@
+.img-fluid{
+    height: 400px;
+    border-radius: 100%;
+}
+.ha{
+text-align: center;
+}
+.img-213{
+    height: 200px;
+}
+
+@media only screen and (max-width:450px){
+    .img-213{
+        height:100px;
+    }
+}
+@media only screen and (max-width:250px){
+    .img-213{
+        height:50px;
+    }
+}
